@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+################### Setup for angular ####################
+
+--> https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+--> DO article for same : https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
+
+--> https://angular.io/guide/quickstart
+--> https://cli.angular.io/ 
